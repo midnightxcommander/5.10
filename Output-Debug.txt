@@ -1,0 +1,19 @@
+﻿'5.3.exe' (Win32): Loaded 'C:\Users\User\source\repos\5.3\Debug\5.3.exe'. Symbols loaded.
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2f80 has exited with code 0 (0x0).
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'5.3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x75c has exited with code 0 (0x0).
+The thread 0x49b0 has exited with code 0 (0x0).
+The thread 0x3970 has exited with code 0 (0x0).
+The program '[13860] 5.3.exe' has exited with code 0 (0x0).
